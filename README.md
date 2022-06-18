@@ -1,4 +1,5 @@
-#Peter M. Hammond | 406-242-0330 | peter@everygoodwork.online
+#Peter M. Hammond | 406-242-0330 | [I'm an inline-style link](mailto://peter@everygoodwork.online)
+
 Diligent professional with 20+ years’ experience in the tech industry with a proven knowledge of enterprise application development, programming, and troubleshooting. Aiming to leverage my skills and experience to make your Unreal Engine project a success. Ready for immediate remote work with my own professional equipment.
 Education:
 •	Epic Games Dev/Learning Community: 42 Online Courses, Blueprint Master, Blueprint Ninja 2021
