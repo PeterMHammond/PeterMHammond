@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/EveryGoodWork/PeterMHammond/main/PeterProfile2022_V5.png" width="200" align="left"></img>
-Peter M. Hammond | [Email](mailto://peter@everygoodwork.online)
+Peter M. Hammond | [Email](mailto://petermhammond@upwork.8shield.net)
 
 Diligent professional with 20+ years’ experience in the tech industry with a proven knowledge of enterprise application development, programming, and troubleshooting. Aiming to leverage my skills and experience to make your Unreal Engine project a success. Ready for immediate remote work with my own professional equipment.
 
