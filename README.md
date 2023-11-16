@@ -5,8 +5,9 @@ Diligent professional with 20+ years’ experience in the tech industry with a p
 
 
 <br><br>
-**Education:**
+**Education/Certifications:**
 
+* AWS Certified Cloud Practitioner 2023 
 * Epic Games Dev/Learning Community: 42 Online Courses, Blueprint Master, Blueprint Ninja 2021
 * Microsoft Certified Systems Engineer Course (MCSE) WA 1999
 * Spokane City Police Training Center WA 1997
