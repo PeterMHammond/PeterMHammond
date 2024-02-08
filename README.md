@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/EveryGoodWork/PeterMHammond/main/PeterProfile2022_V5.png" width="200" align="left"></img>
-Peter M. Hammond | [Email](mailto://petermhammond@upwork.8shield.net)
+<img src="https://raw.githubusercontent.com/EveryGoodWork/PeterMHammond/main/PeterProfile2022_V5.png" width="200" align="left">
+Peter M. Hammond | [Email](mailto:petermhammond@upwork.8shield.net) | [MS Email](mailto:v-phammond@microsoft.com)
 
-Diligent professional with 20+ years’ experience in the tech industry with a proven knowledge of enterprise application development, programming, and troubleshooting. Aiming to leverage my skills and experience to make your Unreal Engine project a success. Ready for immediate remote work with my own professional equipment.
-
+Diligent and highly skilled professional with over 20 years of tech industry experience, excelling in enterprise application development, programming, and troubleshooting. Committed to leveraging extensive expertise for your project's success, I offer a broad understanding of both cutting-edge and legacy technologies, enabling me to deliver innovative solutions that bridge the gap between new advancements and established systems. Ready for immediate remote collaboration, I come equipped with high-speed fiber internet and the most current professional software and hardware tools, guaranteeing top-tier work with a forward-thinking approach.
 
 <br><br>
 **Education/Certifications:**
@@ -17,6 +16,9 @@ Diligent professional with 20+ years’ experience in the tech industry with a p
 * Graduated Keene High School NH 1990
 
 **History:**
+* Senior Software Developer at Microsoft Research through BrickRed Systems, contributor on [FarmVibes-AI](https://github.com/microsoft/farmvibes-ai), assisting deployment to USFS. ID 2024
+*	HTMX - Proof of concept [Unreal.Expert](https://unreal.expert/). ID 2023
+* Freelance developer on [Upwork](https://www.upwork.com/freelancers/petermhammond) over 30 jobs, Top Rated Plus with 100% Job Success. ID 2022-2023
 * Built Unreal Engine 5 data driven chat bot used by 275 Twitch.tv channels on Linux/AWS ID 2021-2022
 *	Developed and delivered 3 proof of concept Unreal Engine 5 (UE5) games on Itch.io ID 2020-2022
 *	Backwoods Bobcat Excavation, owned/operated advanced Bobcat equipment MT 2015-2018
@@ -32,6 +34,9 @@ Diligent professional with 20+ years’ experience in the tech industry with a p
 
 **Skills:**
 *	Public speaking, sales, team lead (50+), team member, project manager and independent operations
+*	Cloud Development and Hosting - Azure, Amazon Web Services
+*	RUST 1.75.0 - dotenv, reqwest, serde, serde_json, tokio, crossterm, async-trait, webbrowser, strum, strum_macros, ai_functions
+*	HTMX 1.9.10
 *	Unreal Engine 4.25, 4.26, 4.27, 5EA, 5.0, 5.0.2 - Unreal Motion Graphics, Skeletal Meshes, Static Meshes, Blueprint Visual Scripting, Animation Blueprints, Dedicated Servers, Creating, Using and debugging Epic Plugins, C++ Integration, Level Design, Sequencer, World Creation, Data Classes, Online Multiplayer, Epic Online Services, Animations, Control Rig, Performance Optimization, Materials, Lumen, Nanite, AI Blueprint, Environment Query System, Audio-Driven Gameplay, Chaos Physics, Platform Specific Project Build Configuration, Source Code Builds, Networking, External API Integration, Meta Sounds, Save Game System, Standard Digital Content Creation tools, Data Tables/External Data Sync, and Quixel Bridge
 *	Microsoft SQL Server Enterprise
 *	.NET (2,5,Core) C#, HTML5 based technologies
