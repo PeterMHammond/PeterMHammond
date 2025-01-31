@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/EveryGoodWork/PeterMHammond/main/PeterProfile2022_V5.png" width="200" align="left"></img>
-Peter M. Hammond | [Upwork Email](mailto:petermhammond@upwork.8shield.net) | [MS Email](mailto:v-phammond@microsoft.com)
+Peter M. Hammond | [Upwork Email](mailto:petermhammond@upwork.8shield.net)
 <br><br>
 Diligent and highly skilled professional with over 20 years of tech industry experience, excelling in enterprise application development, programming, and troubleshooting. Committed to leveraging my extensive expertise for your project's success, I offer a broad understanding of both cutting-edge and legacy technologies, enabling me to deliver innovative solutions that bridge the gap between new advancements and established systems. Ready for immediate remote collaboration, with high-speed fiber internet and the most current professional software and hardware tools, guaranteeing top-tier work with a forward-thinking approach.
 <br><br>
