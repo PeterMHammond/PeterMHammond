@@ -18,7 +18,7 @@ Diligent and highly skilled professional with over 20 years of tech industry exp
 *	2018: Backwoods Bobcat Excavation, built roads, moved dirt, removed trees, cleared snow and [moved a house](https://www.facebook.com/backwoodsbobcat/videos/944899589006657)
 *	2017: Backwoods Bobcat Excavation, moved dirt, cleared trees and [plowed snow](https://www.facebook.com/backwoodsbobcat/videos/907082252788391).
 *	2016: Backwoods Bobcat Excavation, moved dirt and trees.
-*	2015: Backwoods Bobcat Excavation, owned/operated advanced Bobcat equipment.
+*	2015: Backwoods Bobcat Excavation, owned/operated advanced Bobcat equipment. [Videos](https://www.facebook.com/backwoodsbobcat/videos_by) / [Pictures](https://www.facebook.com/backwoodsbobcat/photos_by)
 *	2014: Montana Steam Power, fabricated prototype steam powered electrical generation system.
 *	2013: Montana Steam Power, fabricated DC based portable power crates.
 *	2012: Montana Steam Power, researching electrical generation and steam propulsion.
