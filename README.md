@@ -6,7 +6,9 @@ Diligent and highly skilled professional with over 20 years of tech industry exp
 [Watch my AI-enhanced YouTube Resume](https://youtu.be/F9ie6VSRzu8)
 <br><br>
 **Work History:**
-* 2025: Freelance Developer Leading Cloudflare development projects on Upwork, specializing in Rust/Workers implementations for CARM platform with demonstrated expertise in edge computing solutions.
+* 2025: Cloudflare worker for integrated file management system for [Owl Software](https://owlsoft.com/).
+* 2025: Porting Wordpress to Cloudflare: [CARM.org](https://carm.org/) - Christian Apologetics and Research Ministry, 5K Articles.
+* 2025: Freelance Developer Leading Cloudflare development projects on Upwork, specializing in Rust/Workers implementations platform with demonstrated expertise in edge computing solutions.
 * 2024: Senior Software Developer at Microsoft Research through BrickRed Systems, contributor on [FarmVibes-AI](https://github.com/microsoft/farmvibes-ai), deployment to USFS. 
 *	2023: HTMX - Proof of concept [Unreal.Expert](https://unreal.expert/). 
 * 2022: Freelance developer on [Upwork](https://www.upwork.com/freelancers/petermhammond) over 30 jobs, Top Rated Plus with 100% Job Success.
