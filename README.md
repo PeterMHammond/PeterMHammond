@@ -6,6 +6,7 @@ Diligent and highly skilled professional with over 30 years of tech industry exp
 [Watch my AI-enhanced YouTube Resume](https://youtu.be/F9ie6VSRzu8)
 <br><br>
 **Work History:**
+* 2025: Optimized Cloudflare O2O to Shopify by configuring Enterprise WAF and analytics, deploying targeted rate limiting that stopped a massive credential-stuffing botnet, restored site performance, and significantly improved the sales pipeline.
 * 2025: Ported Wordpress to Cloudflare: [CARM.org](https://carm.org/) to [CARM - Beta](https://carm.online/)- Christian Apologetics and Research Ministry, 5K Articles.
 * 2025: Cloudflare worker for integrated file management system for [Owl Software](https://owlsoft.com/).
 * 2025: Freelance Developer Leading Cloudflare development projects on Upwork, specializing in Rust/Workers implementations platform with demonstrated expertise in edge computing solutions.
